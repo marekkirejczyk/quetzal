@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Test Extensions",
+    "description": "Hello Extensions of the world!",
+    "version": "1.0",
+    "action": {
+      "default_popup": "app/main.html",
+      "default_icon": "assets/logo.png"
+    }
+  }
