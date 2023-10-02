@@ -4,7 +4,7 @@
     "description": "Browser plugin wallet for Aztec Network",
     "version": "1.0",
     "action": {
-      "default_popup": "app/main.html",
+      "default_popup": "dest/app/main.html",
       "default_icon": "assets/logo.png"
     }
   }
