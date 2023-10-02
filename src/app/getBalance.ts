@@ -1,4 +1,4 @@
-function getBalance() {
+function getBalance(): number {
     return 17;
 }
 
