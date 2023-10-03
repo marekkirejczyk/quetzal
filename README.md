@@ -13,3 +13,7 @@ Quetzal is browser plugin wallet for Aztec network.
 
 - Once extension has been successfully installed, pin your extension to the toolbar to quickly access your extension during development
 
+# Requirements
+- Node.js >= v18 (recommend installing with nvm)
+- Docker and Docker Compose
+- Aztec CLI `npm install -g @aztec/cli`
